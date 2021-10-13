@@ -1,4 +1,15 @@
 
+# Videos de configuração ambiente Heroku
+
+Aqui é um video gravado pela Ju Dantas sobre a criação de ambiente Heroku fazendo o deploy, nele temos a mesma explicação detalhada a baixa com imagens tambem.
+
+https://youtu.be/RNQ5XsGADdg
+
+Neste video feito pela Ju Dantas seria da execução do deploy e explicando passo a passo.
+
+https://youtu.be/DMPJNe8PqnU
+
+
 # Configuração de ambiente Heroku
 
 1-Parte   
@@ -67,8 +78,13 @@ pelo github uma avaliação corrida da branch, se aprovada sera feita.
 
 ![image](https://user-images.githubusercontent.com/81186935/136826728-a47c46be-edb1-4b26-ba6a-2f8f1e59a34b.png)
 
+9-parte
 
-9-parte  
+Aqui poderemos executar o programa depois de feito o deploy na parte VIEW, assim executando a paginação do site.
+
+![image](https://user-images.githubusercontent.com/81186935/137144873-2fe0a0df-caf9-4107-8c2f-1edb316ecebc.png)
+
+10-parte  
 
 Aqui demonstramos todos os repositorios criados com seus respectivos nomes, imporante :
 todos eles devem seguir esses padrões de escrita para BACKEND e FRONTEND, pois mais adiante eles seram conctados diretamente com os respositorios feitos dentro do   
