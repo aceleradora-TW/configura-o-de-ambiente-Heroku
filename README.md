@@ -3,10 +3,12 @@
 
 Aqui é um video gravado pela Ju Dantas sobre a criação de ambiente Heroku fazendo o deploy, nele temos a mesma explicação detalhada a baixa com imagens tambem.
 
+![image](https://user-images.githubusercontent.com/81186935/137147067-f0995af1-9d2b-4f05-8409-81f6552ad96c.png)
 https://youtu.be/RNQ5XsGADdg
 
 Neste video feito pela Ju Dantas seria da execução do deploy e explicando passo a passo.
 
+![image](https://user-images.githubusercontent.com/81186935/137147199-e55afe6c-b2b3-444f-995a-dc2c303c8233.png)
 https://youtu.be/DMPJNe8PqnU
 
 
