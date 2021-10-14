@@ -1,5 +1,5 @@
 
-# Videos de configuração ambiente Heroku
+## Videos de configuração ambiente Heroku
 
 Neste video gravado pela Ju Dantas sobre a criação de ambiente Heroku fazendo o deploy, nele temos ua explicação detalhada sobre toda a configuração nescessaria.
 
