@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 
-<html>
 # Tutorial e videos de configuração de ambiente Heroku
 
 1º Passo 
