@@ -1,31 +1,34 @@
 
-## Videos de configuração ambiente Heroku
+# Tutorial e videos de configuração de ambiente Heroku
 
-Neste video gravado pela Ju Dantas sobre a criação de ambiente Heroku fazendo o deploy, nele temos ua explicação detalhada sobre toda a configuração nescessaria.
+1º Passo 
+- Criar um usuário no <a href="https://www.heroku.com/" target="_blank">HEROKU</a>
 
-![image](https://user-images.githubusercontent.com/81186935/137147067-f0995af1-9d2b-4f05-8409-81f6552ad96c.png)
-1º video   
-https://youtu.be/RNQ5XsGADdg
+2º Passo
+- Clique na imagem abaixo e você será direcionado para um video onde temos o passo a passo da criação de um ambiente de teste no HEROKU.
 
-Neste outro video feito pela Ju Dantas, seria da execução do deploy e explicando passo a passo.
+<a href="https://youtu.be/RNQ5XsGADdg>" target="_blank"><img width="535px" src="https://user-images.githubusercontent.com/81186935/137147067-f0995af1-9d2b-4f05-8409-81f6552ad96c.png" target="_blank">
 
-![image](https://user-images.githubusercontent.com/81186935/137147199-e55afe6c-b2b3-444f-995a-dc2c303c8233.png)
-2º video   
-https://youtu.be/DMPJNe8PqnU
+# Fazendo deploy de uma branch
 
+1º Passo 
+  
+<a href="https://youtu.be/DMPJNe8PqnU>" target="_blank"><img width="535px" src="https://user-images.githubusercontent.com/81186935/137147199-e55afe6c-b2b3-444f-995a-dc2c303c8233.png" target="_blank">
 
-# Configuração de ambiente Heroku
-
-Nessa breve explicação, temos slides do video 1, explicando em forma escrita suas configurações.
-
-
-1º-Parte   
-
-Após o loguin voce estara nesta tela, após isso, ira clicar em NEW e depois CREATE NEW APP.
+# *****************************************************************
+# Tutorial escrito
+  
+1º Passo    
+- Criar um usuário no <a href="https://www.heroku.com/" target="_blank">HEROKU</a>
 
 
-![image](https://user-images.githubusercontent.com/81186935/136805150-a5e971ae-f75f-4e48-a005-84c3f3104c92.png)
+2º Passo  
+- Login
+<img width="435" src="https://user-images.githubusercontent.com/80184523/137900936-1d27560c-d254-4a9f-9da7-755961b9f074.png">
 
+
+  
+<img width="535px" src="https://user-images.githubusercontent.com/81186935/136805150-a5e971ae-f75f-4e48-a005-84c3f3104c92.png">
 2º-Parte   
 
 No campo nome precisa ser criado : 
