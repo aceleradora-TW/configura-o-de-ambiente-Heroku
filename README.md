@@ -13,13 +13,13 @@
 
 1º Passo 
   
-<a href="https://youtu.be/DMPJNe8PqnU>" target="_blank"><img width="535px" src="https://user-images.githubusercontent.com/81186935/137147199-e55afe6c-b2b3-444f-995a-dc2c303c8233.png" target="_blank">
+<a href="https://youtu.be/DMPJNe8PqnU>" target="_blank"><img width="535px" src="https://user-images.githubusercontent.com/81186935/137147199-e55afe6c-b2b3-444f-995a-dc2c303c8233.png" target="_blank"></a>
 
 # *****************************************************************
 # Tutorial escrito
   
 1º Passo    
-- Criar um usuário no <a href="https://www.heroku.com/" target="_blank">HEROKU</a>
+- Criar um usuário no <a href="https://www.heroku.com/" target=_blank>HEROKU</a>
 
 
 2º Passo  
