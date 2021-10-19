@@ -2,7 +2,8 @@
 # Tutorial e videos de configuração de ambiente Heroku
 
 1º Passo 
-- Criar um usuário no <a href="https://www.heroku.com/" target="_blank">HEROKU</a>
+
+- Criar um usuário no <a href="https://www.heroku.com/" target="_blank" rel="noopener" >HEROKU</a>
 
 2º Passo
 - Clique na imagem abaixo e você será direcionado para um video onde temos o passo a passo da criação de um ambiente de teste no HEROKU.
@@ -47,7 +48,7 @@
   - Selecione **acelera-mais-api** para Back-End
 
 <img widht="700px" src="https://user-images.githubusercontent.com/81186935/136807493-f93bd69b-f9c3-438c-8ec2-347b751cef1e.png">
-# ***************************************************************** 
+
 4º Passo   
 <img widht="700px" src="https://user-images.githubusercontent.com/80184523/137968882-9d7d46a2-073b-4e82-b6c6-7e7b86841e89.png">
 
