@@ -2,7 +2,7 @@
 # Tutorial e videos de configuração de ambiente Heroku
 
 1º Passo 
-- Criar um usuário no <a href="https://www.heroku.com/" target="_blank" rel="noopener">HEROKU</a>
+- Criar um usuário no <a href="https://www.heroku.com/" target="_blank">HEROKU</a>
 
 2º Passo
 - Clique na imagem abaixo e você será direcionado para um video onde temos o passo a passo da criação de um ambiente de teste no HEROKU.
@@ -15,44 +15,41 @@
   
 <a href="https://youtu.be/DMPJNe8PqnU>" target="_blank"><img width="535px" src="https://user-images.githubusercontent.com/81186935/137147199-e55afe6c-b2b3-444f-995a-dc2c303c8233.png" target="_blank"></a>
 
-# *****************************************************************
+
 # Tutorial escrito
   
 1º Passo    
 - Criar um usuário no <a href="https://www.heroku.com/" target=_blank>HEROKU</a>
 
-
 2º Passo  
 - Login
-<img width="435" src="https://user-images.githubusercontent.com/80184523/137900936-1d27560c-d254-4a9f-9da7-755961b9f074.png">
+<img width="535" src="https://user-images.githubusercontent.com/80184523/137900936-1d27560c-d254-4a9f-9da7-755961b9f074.png">
 
-
+3º Passo
+- Clicar em **New**   
+  - Selecione **Creat new app**   
   
-<img width="535px" src="https://user-images.githubusercontent.com/81186935/136805150-a5e971ae-f75f-4e48-a005-84c3f3104c92.png">
-2º-Parte   
+<img width="700px" src="https://user-images.githubusercontent.com/81186935/136805150-a5e971ae-f75f-4e48-a005-84c3f3104c92.png"/>
+  
 
-No campo nome precisa ser criado : 
+4º Passo   
+- No campo nome acrescentar **seu-nome-acelera-mais-teste**   
+  - ex: Jorel-acelera-mais-teste     (Repositório Front-End)   
+  - ex: Jorel-acelera-mais-api-teste (Repositório Back-End)   
 
-FRONT: * nesse modo de escrita teriamos como exemplo o frontend   
-acelera-mais   
-test-acelera-mais   
+<img widht="700px" src="https://user-images.githubusercontent.com/80184523/137968882-9d7d46a2-073b-4e82-b6c6-7e7b86841e89.png"/>
 
-BACK: * nesse modo de escrita teriamos como exemplo o backend   
-prod-acelera-mais-api   
-test-acelera-mais-api   
+3º Passo
+- 1 Conectar ao GithHub
+- 2 Selecionar o GitHub **aceleradora-TW** 
+- 3 Selecionar o repositório de acordo com o que esta sendo criado
+  - Selecione **acelera-mais** para Front-End
+  - Selecione **acelera-mais-api** para Back-End
 
-
-![image](https://user-images.githubusercontent.com/81186935/136805438-7626d9e1-8fc3-4503-a724-3ab1af516ea7.png)
-
-3º-Parte   
-
-Primeiramente ira conectar pelo Github no retangulo vermelho, logo após ira clicar no dropbox para selecionar o repositório da aceleradora-TW e na flecha vermelha
-ira escrever acelera-mais para procurar os repositórios que ja estão criados, o acelera-mais seria um padrão de procura por cada nome ja ter pelo seu inicio acelera-mais... alguma coisa.
-
-![image](https://user-images.githubusercontent.com/81186935/136807493-f93bd69b-f9c3-438c-8ec2-347b751cef1e.png)
-
-4º-parte   
-
+<img widht="700px" src="https://user-images.githubusercontent.com/81186935/136807493-f93bd69b-f9c3-438c-8ec2-347b751cef1e.png">
+# ***************************************************************** 
+4º Passo   
+<img widht="700px" src="https://user-images.githubusercontent.com/80184523/137968882-9d7d46a2-073b-4e82-b6c6-7e7b86841e89.png/>
 Nesta parte conforme a imagem 3, procuramos um repositório nele que ira aparecer opções de front e back, neste modelo voce ira clicar em qual voce ira desejar.
 Logo após em clique em connect para iniciar o projeto.
 
