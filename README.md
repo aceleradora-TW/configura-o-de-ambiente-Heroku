@@ -1,4 +1,6 @@
+<!DOCTYPE html>
 
+<html>
 # Tutorial e videos de configuração de ambiente Heroku
 
 1º Passo 
@@ -49,7 +51,10 @@
 <img widht="700px" src="https://user-images.githubusercontent.com/81186935/136807493-f93bd69b-f9c3-438c-8ec2-347b751cef1e.png">
 # ***************************************************************** 
 4º Passo   
-<img widht="700px" src="https://user-images.githubusercontent.com/80184523/137968882-9d7d46a2-073b-4e82-b6c6-7e7b86841e89.png/>
+<img widht="700px" src="https://user-images.githubusercontent.com/80184523/137968882-9d7d46a2-073b-4e82-b6c6-7e7b86841e89.png">
+
+</html>  
+  
 Nesta parte conforme a imagem 3, procuramos um repositório nele que ira aparecer opções de front e back, neste modelo voce ira clicar em qual voce ira desejar.
 Logo após em clique em connect para iniciar o projeto.
 
