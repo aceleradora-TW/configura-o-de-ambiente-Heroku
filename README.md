@@ -7,7 +7,7 @@
 2º Passo
 - Clique na imagem abaixo e você será direcionado para um video onde temos o passo a passo da criação de um ambiente de teste no HEROKU.
 
-<a href="https://youtu.be/RNQ5XsGADdg>" target="_blank"><img width="535px" src="https://user-images.githubusercontent.com/81186935/137147067-f0995af1-9d2b-4f05-8409-81f6552ad96c.png" target="_blank">
+<a href="https://youtu.be/RNQ5XsGADdg>" target="_blank"><img width="535px" src="https://user-images.githubusercontent.com/81186935/137147067-f0995af1-9d2b-4f05-8409-81f6552ad96c.png" target="_blank"></a>
 
 # Fazendo deploy de uma branch
 
