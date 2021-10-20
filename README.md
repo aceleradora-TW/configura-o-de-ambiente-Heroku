@@ -1,5 +1,7 @@
 
-[Go to this page](http://somelink.com/?target=_blank)
+
+<a href="https://example.org/" rel="nofollow" title="title&quot; target=&quot;_blank">Link</a>
+
 
 # Tutorial e videos de configuração de ambiente Heroku
 
