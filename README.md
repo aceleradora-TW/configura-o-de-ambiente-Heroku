@@ -1,12 +1,11 @@
 
+[Go to this page](http://somelink.com/?target=_blank)
+
 # Tutorial e videos de configuração de ambiente Heroku
 
 1º Passo 
 
 - Criar um usuário no <a href="https://www.heroku.com/" target="_blank" rel="noopener" >HEROKU</a>
-
-
-Criar um usuário no [HEROKU](https://www.heroku.com/)
 
 
 2º Passo
