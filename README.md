@@ -103,7 +103,7 @@
 
 4º Passo
 
-- Clicar no botão roxo **Submit order form**
+- Clicar no botão roxo **Submit Order Form**
 
 <img width="700px" src="https://user-images.githubusercontent.com/81186935/138735604-ac7d778d-1139-4e2c-b7f9-e52edc2717de.png"/>
 
