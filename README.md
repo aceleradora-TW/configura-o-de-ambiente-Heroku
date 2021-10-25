@@ -77,3 +77,55 @@
 <a href="https://youtu.be/DMPJNe8PqnU>" target="_blank"><img width="535px" src="https://user-images.githubusercontent.com/81186935/137147199-e55afe6c-b2b3-444f-995a-dc2c303c8233.png" target="_blank"></a>
 
 ## Pronto, agora você tem um ambiente próprio para testar suas branchs e também fazer QA
+
+=========================================//==============================================
+
+# Adicionando variável de ambiente para testar features do backend
+### 
+1º Passo
+
+- Selecionar o ambiente de teste da api
+
+<img width="700px" src="https://user-images.githubusercontent.com/81186935/138734885-2b12cddb-25b0-48a8-a485-43490b115d1f.png"/>
+
+2º Passo
+
+- Clicar em **Resources**
+
+<img width="700px" src="https://user-images.githubusercontent.com/81186935/138735407-a6c4a8e2-3f06-4a4c-bbee-e5d7d3bda7a1.png"/>
+
+3º Passo
+
+- Digitar postgres na busca dos **Add-ons**
+- Selecionar o item **Heroku Postgres**
+
+<img width="700px" src="https://user-images.githubusercontent.com/81186935/138735348-ed76926e-c26d-4b45-957d-0e6991474eed.png"/>
+
+4º Passo
+
+- Clicar no botão roxo **Submit order form**
+
+<img width="700px" src="https://user-images.githubusercontent.com/81186935/138735604-ac7d778d-1139-4e2c-b7f9-e52edc2717de.png"/>
+
+5º Passo
+
+- Clicar em **Settings**
+
+<img width="700px" src="https://user-images.githubusercontent.com/81186935/138736013-51d72cbd-5a7b-4187-ab4e-4200203728c0.png"/>
+
+6º Passo
+
+- Clicar em **Reveal Config Vars**
+
+<img width="700px" src="https://user-images.githubusercontent.com/81186935/138736070-8bbf49e9-7953-48c2-8c06-1952421431c0.png"/>
+
+7º Passo
+
+- Adicionar uma **Key** chamada **NODE_ENV**
+- Adicionar o **value** chamado **test**
+- Clicar em **add** para adicionar.
+
+<img width="700px" src="https://user-images.githubusercontent.com/81186935/138736127-916beb21-3bb8-4a30-bbc9-c6f93df41b4b.png"/>
+
+
+
